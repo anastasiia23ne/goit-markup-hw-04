@@ -313,6 +313,7 @@ opacity: 1;
 .team-icon-img {
     width: 16px;
     height: 16px;
+    fill: #f4f4fd;
 }
 
 .team-img, .team-subtitles, .team-item-text {
@@ -376,6 +377,7 @@ transform: translateY(0);
 
 .footer-container {
     display: flex;
+    align-items: baseline;
 }
 
 .footer-logo {
@@ -405,7 +407,7 @@ transform: translateY(0);
 
 .footer-icon {
     display: flex;
-    gap: 24px;
+    gap: 16px;
     align-items: center;
     justify-content: center;
         }
@@ -429,4 +431,5 @@ width: 40px;
 .footer-icon-img {
     width: 24px;
     height: 24px;
+    fill: #f4f4fd;
 }
